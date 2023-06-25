@@ -1,7 +1,1 @@
-[
-    {
-        "title": "Note Taker Application",
-        "text": "This application allows you to add and delete notes. The plus icon '+' allows you to add notes and the save icon allows you to save what you have entered", 
-        "id": 0
-    }
-]
+{"response":[{"title":"Note Taker Application","text":"This application allows you to add and delete notes. The plus icon '+' allows you to add notes and the save icon allows you to save what you have entered","id":0},{"title":"Chores","text":"Dishes and trash","id":"1"},{"title":"cooking","text":"need to cook dinner for the wife","id":"2"}]}
