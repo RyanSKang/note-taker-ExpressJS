@@ -2,11 +2,7 @@
   
 ## Description:
 
-An application using Express.JS called Note Taker that can be used to write and save notes. The main use will be to implement Express.JS back end that will save and retrive note data from a JSON file that is deployed through Heroku. 
-
--Motivation  
--Challenges  
--What i learned  
+An application using Express.JS called Note Taker that can be used to write and save notes. The main use will be to implement Express.JS back end that will save and retrive note data from a JSON file that is deployed through Heroku. The purpose of this challenge was to use express.js in the backend to create routes to our main javascript functions. In a sense, what I learned was that server.js allows us to start our application with our given connection and routes/middleware defined, while our controllers allows UI Data to be rendered within our local index.html/notes.html while our local JS handles our front end user interaction. Some challenges I faced was the order I was defining my modules and middleware because I needed to initialize the variable defined before accessing it. I also learned how to use my controllers to manipulate the application routes.  
 
 ## User Story
 ```md
@@ -51,7 +47,13 @@ Following Installation Needed:
 Express [v4.16.4](https://www.npmjs.com/package/express/v/4.16.4)
 
 ## Usage Instructions
-1. 
+1. Open cloned repository  
+2. Execute an npm install  
+3. Execute node server.js  
+4. Open on localhost:3001 or on Heroku: [Click_Here]()
+5. Click "Get Started"  
+6. Click "+" icon and name a title and notes under the title and click the save icon
+7. Saved note should be displayed on the left column and when you click on it, the explicit notes should also be displayed on the right column
 
 ## Screenshots
 ### Figure 1. 
