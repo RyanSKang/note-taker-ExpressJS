@@ -1,10 +1,8 @@
 // Defining dependencies
 const express = require('express');
 const app = express();
-const fs = require('fs');
-const path = require('path');
 const apiRoutes = require('./controllers/api');
-const homeRoutes = require('./controllers/index');
+const homeRoutes = require('./controllers/index.js');
 const PORT = process.env.PORT || 3001;
 
 // Adding Middleware
