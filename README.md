@@ -65,7 +65,7 @@ You can access this application via heroku:
 
 
 ## Credits
--AskBCS learning assistant 
+-AskBCS learning assistant   
 -1 on 1 tutor: Julio Valdez
 
 
