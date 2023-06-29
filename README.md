@@ -44,7 +44,7 @@ Git clone Repository: [note-taker-ExpressJS](https://github.com/RyanSKang/note-t
 
 Following Installation Needed:
 
-Express [v4.16.4](https://www.npmjs.com/package/express/v/4.16.4)
+Express [v4.16.4](https://www.npmjs.com/package/express/v/4.16.4)  
 Uniqid [v^5.4.0"](https://www.npmjs.com/package/uniqid)  
   
 You can access this application via heroku: 
