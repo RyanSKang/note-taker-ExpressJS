@@ -53,7 +53,7 @@ You can access this application via heroku:
 1. Open cloned repository  
 2. Execute an npm install  
 3. Execute node server.js  
-4. Open on localhost:3001 or on Heroku: [Click_Here]()
+4. Open on localhost:3001 or on Heroku: [Click_Here](https://ryans-note-taker-expressjs-4b875701167d.herokuapp.com/)
 5. Click "Get Started"  
 6. Click "+" icon and name a title and notes under the title and click the save icon
 7. Saved note should be displayed on the left column and when you click on it, the explicit notes should also be displayed on the right column
