@@ -17,7 +17,6 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 - [Installation](#installation)
 - [Usage Instructions](#usage-instructions) 
 - [Usage Screenshots](#screenshots)
-- [Walkthrough Video](#walkthrough-video)
 - [Credits](#credits)  
 
 # Overview
@@ -60,9 +59,15 @@ You can access this application via heroku:
 
 ## Screenshots
 ### Figure 1. 
-
-## Walkthrough Video
-
+![Screenshot 2023-07-17 at 6 44 09 PM](https://github.com/RyanSKang/note-taker-ExpressJS/assets/124969918/2705abe3-ceaa-4118-be6d-a4e3dc33403e)  
+### Figure 2.  
+![Screenshot 2023-07-17 at 6 44 18 PM](https://github.com/RyanSKang/note-taker-ExpressJS/assets/124969918/2654226a-9aeb-42d1-83ec-d5385874ab0a)  
+### Figure 3.  
+![Screenshot 2023-07-17 at 6 44 27 PM](https://github.com/RyanSKang/note-taker-ExpressJS/assets/124969918/c9004dbe-74c9-4726-820b-bea2ee021642)  
+### Figure 4.  
+![Screenshot 2023-07-17 at 6 44 46 PM](https://github.com/RyanSKang/note-taker-ExpressJS/assets/124969918/d8f9a53f-42f8-4740-a9e8-cd9f60e6b184)  
+### Figure 5.  
+![Screenshot 2023-07-17 at 6 44 56 PM](https://github.com/RyanSKang/note-taker-ExpressJS/assets/124969918/501106e3-41be-4bf3-8e53-142388acd085)  
 
 ## Credits
 -AskBCS learning assistant   
